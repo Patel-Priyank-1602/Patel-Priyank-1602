@@ -33,6 +33,9 @@
         <a href="https://www.linkedin.com/posts/patel-priyank-945131288_java-programming-engineering-activity-7265681809449885699-zRXx" target="_blank">
           <img src="https://img.shields.io/badge/View_Post-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Post"/>
         </a>
+        <a href="https://github.com/Patel-Priyank-1602/PDEU-3rd-SEM-CGPA-Calculator-">
+          <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+        </a>
       </p>
       <p>A comprehensive Java-based tool designed to help students calculate and track their CGPA efficiently.</p>
     </td>
