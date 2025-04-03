@@ -1,72 +1,128 @@
 <div align="center">
-  <h1>👋 Hi, I'm Patel Priyank</h1>
-  <h3>Full-Stack Developer | Flask Enthusiast</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Priyank+Patel;Full-Stack+Developer;Flask+Enthusiast" alt="Typing SVG" />
+  
   <p>Building innovative solutions with code and creativity</p>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/patel-priyank-945131288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://www.instagram.com/patelpriyank.d/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://www.hackerrank.com/profile/patelpriyank2526"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+    <a href="mailto:patelpriyank2526@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  </p>
+</div>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">WebSync</h3>
+      <p align="center">
+        <a href="https://patel-priyank-1602.github.io/WebSyncP-/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Demo"/>
+        </a>
+        <a href="https://github.com/patel-priyank-1602/WebSyncP-" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+        </a>
+      </p>
+      <p>A dynamic web synchronization tool that streamlines real-time collaboration between developers.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">CGPA Calculator</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/posts/patel-priyank-945131288_java-programming-engineering-activity-7265681809449885699-zRXx" target="_blank">
+          <img src="https://img.shields.io/badge/View_Post-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Post"/>
+        </a>
+      </p>
+      <p>A comprehensive Java-based tool designed to help students calculate and track their CGPA efficiently.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">India GOV Rules 2024-25</h3>
+      <p align="center">
+        <a href="https://patel-priyank-1602.github.io/Indian-Rules/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Demo-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Demo"/>
+        </a>
+        <a href="https://github.com/patel-priyank-1602/Indian-Rules" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+        </a>
+      </p>
+      <p>A comprehensive resource for staying updated with the latest Indian government rules and regulations.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">My Portfolio</h3>
+      <p align="center">
+        <a href="https://patel-priyank-1602.github.io/webCV/" target="_blank">
+          <img src="https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio"/>
+        </a>
+        <a href="https://github.com/patel-priyank-1602/webCV" target="_blank">
+          <img src="https://img.shields.io/badge/View_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
+        </a>
+      </p>
+      <p>My professional portfolio showcasing projects, skills, and career highlights.</p>
+    </td>
+  </tr>
+</table>
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,flask,mysql,git,linux,vscode&perline=6" />
+  
+  <h3>Backend</h3>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  
+  <h3>Frontend</h3>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  
+  <h3>Languages</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  
+  <h3>Tools</h3>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</div>
+
+## 🌱 Currently Learning
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Flask-Advanced-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Advanced"/>
+  <img src="https://img.shields.io/badge/API_Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Development"/>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patel-priyank-1602&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-priyank-1602&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+## 📄 Resume & Contact
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1Gex9gc7dRN_Psb3TRoqxhrscjGPqZVxM/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="mailto:patelpriyank2526@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </div>
 
 ---
 
-### 🚀 Projects
-- **[WebSync](https://patel-priyank-1602.github.io/WebSyncP-/)** - A dynamic web synchronization tool  
-- **[CGPA Calculator](https://www.linkedin.com/posts/patel-priyank-945131288_java-programming-engineering-activity-7265681809449885699-zRXx)** - A handy tool for students to calculate CGPA  
-- **[India GOV Rules 2024-25](https://patel-priyank-1602.github.io/Indian-Rules/)** - Resource for Indian government rules and regulations  
-
-👨‍💻 Explore all my projects at [My Portfolio](https://patel-priyank-1602.github.io/webCV/)
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
-
----
-
-### 🌱 Currently Learning
-- **React** - Building interactive UIs  
-- **Flask** - Mastering backend development  
-
----
-
-### 🤝 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/patel-priyank-945131288/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/patelpriyank.d/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/patelpriyank2526" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/>
-  </a>
-</p>
-
-📫 **Email**: [patelpriyank2526@gmail.com](mailto:patelpriyank2526@gmail.com)  
-📄 **Resume**: [View Here](https://drive.google.com/file/d/1Gex9gc7dRN_Psb3TRoqxhrscjGPqZVxM/view)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=patel-priyank-1602&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=patel-priyank-1602&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=patel-priyank-1602&theme=dark" alt="Streak Stats"/>
-</p>
-
----
-
 <div align="center">
-  <p>💡 "Code is like poetry; it’s all about finding the right rhythm."</p>
+  <img src="https://komarev.com/ghpvc/?username=patel-priyank-1602&style=flat-square&color=blue" alt="Profile views"/>
+  <p>💡 <em>"Code is like poetry; it's all about finding the right rhythm."</em></p>
 </div>
