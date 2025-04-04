@@ -116,6 +116,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-priyank-1602&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patel-priyank-1602&theme=react" width="70%" alt="Activity Graph"/>
+</div>
+
 ## 📄 Resume & Contact
 
 <div align="center">
