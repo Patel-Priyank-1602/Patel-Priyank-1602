@@ -13,17 +13,25 @@
 
 ---
 
+## 👨‍💻 Developer of
+- [CineVerse 2025](https://cineverse-p.netlify.app/)
+- [WebSync](https://patel-priyank-1602.github.io/WebSyncP-/)
+- [CVRecommendation](https://cvrecommendation.netlify.app/)
+- [PyShell-Docs](https://pyshelldocs.netlify.app/) @[PyShell](https://www.linkedin.com/company/py-shell/)
+
+---
+
 ## 🚀 About Me
 
 <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 *Currently Working On:* FullStack Projects using Flask & React
-- 🌱 *Learning:* Next.js, TypeScript, and advanced Flask features
-- 🎯 *Goal:* To become a proficient full-stack developer
-- ⚒ *AI Tools:* ChatGPT, Grok, Claude for enhanced productivity
-- 💬 *Ask me about:* Python, Flask, Java, Web Development
-- 📧 *Contact:* [patelpriyank2526@gmail.com](mailto:patelpriyank2526@gmail.com)
-- ⚡ *Fun Fact:* I love exploring new technologies and building innovative solutions!
+- 🔭 **Currently Working On:** FullStack Projects using Flask & React
+- 🌱 **Learning:** Next.js, TypeScript, and advanced Flask features
+- 🎯 **Goal:** To become a proficient full-stack developer
+- ⚒  **AI Tools:** ChatGPT, Grok, Claude for enhanced productivity
+- 💬 **Ask me about:** Python, Flask, Java, Web Development
+- 📧 **Contact:** [patelpriyank2526@gmail.com](mailto:patelpriyank2526@gmail.com)
+- ⚡ **Fun Fact:** I love exploring new technologies and building innovative solutions!
 
 <div align="center">
   
@@ -60,10 +68,10 @@
 
 <div align="center">
 
-| 🔗 *WebSync* | 🎬 *CineVerse* | 🤖 *CVRecommendation* |
+| 🔗 **WebSync** | 🎬 **CineVerse 2025** | 🤖 **CVRecommendation** |  
 |:---:|:---:|:---:|
-| [![WebSync](https://img.shields.io/badge/WebSync-Bookmark_Manager-blue?style=for-the-badge&logo=bookstack)](https://patel-priyank-1602.github.io/WebSyncP-/) | [![CineVerse](https://img.shields.io/badge/CineVerse-Movie_Platform-red?style=for-the-badge&logo=film)](https://cineverse-p.netlify.app/) | [![CVRecommendation](https://img.shields.io/badge/CVRecommendation-AI_Engine-green?style=for-the-badge&logo=robot)](https://cvrecommendation.netlify.app/) |
-| Powerful bookmark manager with search and categorization features | Sleek platform for exploring Indian and global cinema | Personalized movie & series recommendation engine |
+| [![WebSync](https://img.shields.io/badge/WebSync-Bookmark_Manager-blue?style=for-the-badge&logo=bookstack)](https://patel-priyank-1602.github.io/WebSyncP-/) | [![CineVerse](https://img.shields.io/badge/CineVerse-Movie_Platform-red?style=for-the-badge&logo=film)](https://cineverse-p.netlify.app/) | [![CVRecommendation](https://img.shields.io/badge/CVRecommendation-AI_Engine-green?style=for-the-badge&logo=robot)](https://cvrecommendation.netlify.app/) | 
+| Powerful bookmark manager with search and categorization features | Sleek platform for exploring Indian and global cinema | Personalized movie & series recommendation engine | 
 
 </div>
 
@@ -72,7 +80,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patel-priyank-1602&theme=react" width="70%" alt="Activity Graph"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patel-priyank-1602&theme=react" width="70%" alt="Activity Graph"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=patel-priyank-1602&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
