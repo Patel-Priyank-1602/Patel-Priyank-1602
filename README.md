@@ -14,10 +14,10 @@
 ---
 
 ## 👨‍💻 Developer of
-- [CineVerse 2025](https://cineverse-p.netlify.app/)
-- [WebSync](https://patel-priyank-1602.github.io/WebSyncP-/)
-- [CVRecommendation](https://cvrecommendation.netlify.app/)
-- [PyShell-Docs](https://pyshelldocs.netlify.app/) @[PyShell](https://www.linkedin.com/company/py-shell/)
+- 🔗 [CineVerse 2025](https://cineverse-p.netlify.app/)
+- 🔗 [WebSync](https://patel-priyank-1602.github.io/WebSyncP-/)
+- 🔗 [CVRecommendation](https://cvrecommendation.netlify.app/)
+- 🔗 [PyShell-Docs](https://pyshelldocs.netlify.app/) @[PyShell](https://www.linkedin.com/company/py-shell/)
 
 ---
 
@@ -27,8 +27,7 @@
 
 - 🔭 **Currently Working On:** FullStack Projects using Flask & React
 - 🌱 **Learning:** Next.js, TypeScript, and advanced Flask features
-- 🎯 **Goal:** To become a proficient full-stack developer
-- ⚒  **AI Tools:** ChatGPT, Grok, Claude for enhanced productivity
+- ⚒  **AI Tools:** ChatGPT, Grok, Claude, Vercel for enhanced productivity
 - 💬 **Ask me about:** Python, Flask, Java, Web Development
 - 📧 **Contact:** [patelpriyank2526@gmail.com](mailto:patelpriyank2526@gmail.com)
 - ⚡ **Fun Fact:** I love exploring new technologies and building innovative solutions!
