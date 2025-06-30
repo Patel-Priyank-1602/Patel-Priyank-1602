@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 Developer of
-- 🔗 [CineVerse 2025](https://cineverse-p.netlify.app/)
+- 🔗 [CineVerse Hub](https://cineverse-p.netlify.app/)
 - 🔗 [WebSync](https://patel-priyank-1602.github.io/WebSyncP-/)
 - 🔗 [CVRecommendation](https://cvrecommendation.netlify.app/)
 - 🔗 [PyShell-Docs](https://pyshelldocs.netlify.app/) @[PyShell](https://www.linkedin.com/company/py-shell/)
@@ -67,9 +67,9 @@
 
 <div align="center">
 
-| 🔗 **WebSync** | 🎬 **CineVerse 2025** | 🤖 **CVRecommendation** |  
+| 🔗 **WebSync** | 🎬 **CineVerse Hub** | 🤖 **CVRecommendation** |  
 |:---:|:---:|:---:|
-| [![WebSync](https://img.shields.io/badge/WebSync-Bookmark_Manager-blue?style=for-the-badge&logo=bookstack)](https://patel-priyank-1602.github.io/WebSyncP-/) | [![CineVerse](https://img.shields.io/badge/CineVerse-Movie_Platform-red?style=for-the-badge&logo=film)](https://cineverse-p.netlify.app/) | [![CVRecommendation](https://img.shields.io/badge/CVRecommendation-AI_Engine-green?style=for-the-badge&logo=robot)](https://cvrecommendation.netlify.app/) | 
+| [![WebSync](https://img.shields.io/badge/WebSync-Bookmark_Manager-blue?style=for-the-badge&logo=bookstack)](https://patel-priyank-1602.github.io/WebSyncP-/) | [![CineVerse Hub](https://img.shields.io/badge/CineVerse-Movie_Platform-red?style=for-the-badge&logo=film)](https://cineverse-p.netlify.app/) | [![CVRecommendation](https://img.shields.io/badge/CVRecommendation-AI_Engine-green?style=for-the-badge&logo=robot)](https://cvrecommendation.netlify.app/) | 
 | Powerful bookmark manager with search and categorization features | Sleek platform for exploring Indian and global cinema | Personalized movie & series recommendation engine | 
 
 </div>
