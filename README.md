@@ -16,7 +16,7 @@
 ## 👨‍💻 Developer of
 - 🔗 [CineVerse Hub](https://cineverse-p.netlify.app/)
 - 🔗 [WebSync](https://patel-priyank-1602.github.io/WebSyncP-/)
-- 🔗 [CVRecommendation](https://cvrecommendation.netlify.app/)
+- 🔗 [CVHRecommendation](https://cvrecommendation.netlify.app/)
 - 🔗 [PyShell-Docs](https://pyshelldocs.netlify.app/) @[PyShell](https://www.linkedin.com/company/py-shell/)
 
 ---
