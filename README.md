@@ -17,6 +17,7 @@
 - 🔗 [CineVerse Hub](https://cineverse-p.netlify.app/)
 - 🔗 [WebSync](https://patel-priyank-1602.github.io/WebSyncP-/)
 - 🔗 [CVHRecommendation](https://cvrecommendation.netlify.app/)
+- 🔗 [PyShell-Web](https://pyshellweb.netlify.app/) @[PyShell](https://www.linkedin.com/company/py-shell/)
 - 🔗 [PyShell-Docs](https://pyshelldocs.netlify.app/) @[PyShell](https://www.linkedin.com/company/py-shell/)
 
 ---
