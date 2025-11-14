@@ -5,8 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Python+%26+Flask+Enthusiast;Java+Swing+Developer;Next.js+Explorer;Always+Learning+New+Tech!" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patel-priyank-1602&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/patel-priyank-1602?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=patel-priyank-1602&color=blueviolet&style=flat-square" />
+
+  <img src="https://img.shields.io/github/followers/patel-priyank-1602?label=Followers&style=flat&logo=github&cacheSeconds=60" />
 </p>
 
 </div>
