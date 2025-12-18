@@ -1,44 +1,30 @@
 <div align="center">
-  
+
 # 👋 Hi there, I'm Patel Priyank
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Python+%26+Flask+Enthusiast;Java+Swing+Developer;Next.js+Explorer;Always+Learning+New+Tech!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Python+%26+Flask+Expert;Next.js+%26+React+Developer;AI+Tools+Power+User;Open+Source+Contributor" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patel-priyank-1602&color=blueviolet&style=flat-square" />
-
-  <img src="https://img.shields.io/github/followers/patel-priyank-1602?label=Followers&style=flat&logo=github&cacheSeconds=60" />
+  <img src="https://komarev.com/ghpvc/?username=patel-priyank-1602&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/patel-priyank-1602?label=Followers&style=flat&logo=github&color=blue" alt="Followers" />
 </p>
 
+[📄 View My Resume](https://drive.google.com/file/d/1Vm3xpl8fLwOFOZIt3AW708rPutsuhHck/view?usp=sharing) • [🌐 Visit Portfolio](https://priyankdev.netlify.app/) • [📧 Contact Me](mailto:patelpriyank2526@gmail.com)
+
 </div>
 
 ---
 
-## 👨‍💻 Developer of
-- 🔗 [CineVerse Hub](https://cineverse-p.netlify.app/)
-- 🔗 [WebSync](https://patel-priyank-1602.github.io/WebSyncP-/)
-- 🔗 [CVHRecommendation](https://cvrecommendation.netlify.app/)
-- 🔗 [PyShell-Web](https://pyshellweb.netlify.app/) @[PyShell](https://www.linkedin.com/company/py-shell/)
-- 🔗 [PyShell-Docs](https://pyshelldocs.netlify.app/) @[PyShell](https://www.linkedin.com/company/py-shell/)
+## 📖 About Me
 
----
+<img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 🚀 About Me
+I am a passionate **Full-Stack Developer** focused on building clean, efficient, and user-centric web applications. My expertise lies in bridging the gap between powerful backends (**Flask/Python**) and modern, responsive frontends (**React/Next.js**).
 
-<img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-- 🔭 **Currently Working On:** FullStack Projects using Flask & React
-- 🌱 **Learning:** Next.js, TypeScript, and advanced Flask features
-- ⚒  **AI Tools:** ChatGPT, Grok, Claude, Vercel for enhanced productivity
-- 💬 **Ask me about:** Python, Flask, Java, Web Development
-- 📧 **Contact:** [patelpriyank2526@gmail.com](mailto:patelpriyank2526@gmail.com)
-- ⚡ **Fun Fact:** I love exploring new technologies and building innovative solutions!
-
-<div align="center">
-  
-### 📄 [View My Resume](https://drive.google.com/file/d/13s6hxZenQrguoekBTNen8Jvq2TWmJ2dv/view?usp=sharing) | 🌐 [Visit Portfolio](https://priyank-patel-d.netlify.app/)
-
-</div>
+* 🔭 **Current Project:** Scaling Full-Stack applications with Flask & React.
+* 🌱 **Deep Diving:** Mastering **TypeScript** and **Advanced Next.js Architecture**.
+* ⚒️ **Workflow:** Leveraging AI (ChatGPT, Claude, Grok) to write cleaner, faster code.
+* 💬 **Ask me about:** Python, Flask, Java, and the Modern Web Ecosystem.
 
 ---
 
@@ -53,12 +39,17 @@
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,react,nextjs" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=flask,react,nextjs,nodejs" alt="Frameworks" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" alt="Frameworks" />
 </p>
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,linux,vscode,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,netlify,vercel" alt="Tools" />
 </p>
 
 </div>
@@ -67,83 +58,114 @@
 
 ## 🏆 Featured Projects
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <tr>
+  <!-- CineVerse Hub -->
+  <td width="50%" align="center">
+    <img src="image/cine.png"
+     onerror="this.src='https://placehold.co/600x350/1a1a1a/36BCF7?text=CineVerse+Hub'"
+     width="100%"
+     height="200"
+     style="object-fit: cover; border-radius: 8px;"
+     alt="CineVerse Hub"/>
+    <br/>
+    <b>CineVerse Hub</b><br/>
+    <i>OTT-style platform to explore, search, and plan movies & series.</i><br/>
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
+    <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=flat" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3" /><br/>
+    <a href="https://cineverse-p.netlify.app/">🔗 View Project</a>
+  </td>
 
-| 🔗 **WebSync** | 🎬 **CineVerse Hub** | 🤖 **CVRecommendation** |  
-|:---:|:---:|:---:|
-| [![WebSync](https://img.shields.io/badge/WebSync-Bookmark_Manager-blue?style=for-the-badge&logo=bookstack)](https://patel-priyank-1602.github.io/WebSyncP-/) | [![CineVerse Hub](https://img.shields.io/badge/CineVerse-Movie_Platform-red?style=for-the-badge&logo=film)](https://cineverse-p.netlify.app/) | [![CVRecommendation](https://img.shields.io/badge/CVRecommendation-AI_Engine-green?style=for-the-badge&logo=robot)](https://cvrecommendation.netlify.app/) | 
-| Powerful bookmark manager with search and categorization features | Sleek platform for exploring Indian and global cinema | Personalized movie & series recommendation engine | 
+  <!-- WebSync -->
+  <td width="50%" align="center">
+    <img src="image/web.png"
+     onerror="this.src='https://placehold.co/600x350/1a1a1a/36BCF7?text=WebSync'"
+     width="100%"
+     height="200"
+     style="object-fit: cover; border-radius: 8px;"
+     alt="WebSync"/>
+    <br/>
+    <b>WebSync</b><br/>
+    <i>Smart bookmark manager with search, categories, and dark mode.</i><br/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3" /><br/>
+    <a href="https://patel-priyank-1602.github.io/WebSyncP-/">🔗 View Project</a>
+  </td>
+</tr>
 
-</div>
+<tr>
+  <!-- Local Network File Transfer -->
+  <td width="50%" align="center">
+    <img src="image/filepy.png"
+     onerror="this.src='https://placehold.co/600x350/1a1a1a/36BCF7?text=LAN+File+Transfer'"
+     width="100%"
+     height="200"
+     style="object-fit: cover; border-radius: 8px;"
+     alt="Local Network File Transfer"/>
+    <br/>
+    <i>Offline, secure file sharing over the same local network.</i><br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TCP/IP-00599C?style=flat" />
+    <img src="https://img.shields.io/badge/Sockets-000000?style=flat" /><br/>
+    <a href="https://www.linkedin.com/posts/patel-priyank-945131288_pythonproject-localnetwork-tcpsocket-activity-7402354526869061632-P36y/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXJSwUBy1pZdakiKqJQHFrTO0xksmyea28">🔗 View Project</a>
+  </td>
+  <!-- Green Hydrogen InfraVision -->
+  <td width="50%" align="center">
+    <img src="image/infra.png"
+     onerror="this.src='https://placehold.co/600x350/1a1a1a/36BCF7?text=InfraVision'"
+     width="100%"
+     height="200"
+     style="object-fit: cover; border-radius: 8px;"
+     alt="Green Hydrogen InfraVision"/>
+    <br/>
+    <i>AI-powered platform for planning green hydrogen infrastructure.</i><br/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Leaflet-199900?style=flat" />
+    <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat" /><br/>
+    <a href="https://www.linkedin.com/posts/patel-priyank-945131288_hackout2025-greenhydrogen-ai-activity-7368260435646517250-9X0C/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXJSwUBy1pZdakiKqJQHFrTO0xksmyea28">🔗 View Project</a>
+  </td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patel-priyank-1602&theme=react" width="70%" alt="Activity Graph"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=patel-priyank-1602&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=patel-priyank-1602&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-priyank-1602&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-priyank-1602&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=patel-priyank-1602&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patel-priyank-1602&theme=radical" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=patel-priyank-1602&theme=radical&hide_border=true" />
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=patel-priyank-1602&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patel-priyank-1602&bg_color=0d1117&color=58a6ff&line=f85149&point=ffa657&area=true&hide_border=true" alt="Contribution Graph" />
+ <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=patel-priyank-1602&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
-<p>
-  <a href="https://www.linkedin.com/in/patel-priyank-945131288/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/patelpriyank.d/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/patelpriyank2526" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="mailto:patelpriyank2526@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://priyankdev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/patel-priyank-945131288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/patelpriyank2526"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.instagram.com/patelpriyank.d/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:patelpriyank2526@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-</div>
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad."</i> — <b>Cory House</b>
+</p>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
-</div>
-
-<div align="center">
-  
-### ⭐ From [Patel Priyank](https://github.com/patel-priyank-1602) with ❤
-
-Thanks for visiting my profile! Feel free to star ⭐ my repositories if you find them interesting!
-
+  <p><b>Developed with ❤️ by Patel Priyank</b></p>
 </div>
