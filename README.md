@@ -34,25 +34,41 @@ I am a passionate **Full-Stack Developer** focused on building clean, efficient,
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,typescript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,php,html,css,js,typescript" />
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,react,nextjs,nodejs" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=flask,react,nextjs,nodejs,npm" />
 </p>
 
-### Database
+### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
 </p>
 
-### Tools & Technologies
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,netlify,vercel" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,netlify,vercel" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+### Data & Visualization
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-130654?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white" />
 </p>
 
 </div>
+
 
 ---
 
