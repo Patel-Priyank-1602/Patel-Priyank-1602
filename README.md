@@ -151,24 +151,30 @@ I am a passionate **Full-Stack Developer** focused on building clean, efficient,
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=patel-priyank-1602&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-priyank-1602&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patel-priyank-1602&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=patel-priyank-1602&theme=radical&hide_border=true" />
-</div>
+### Profile Summary
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patel-priyank-1602&theme=tokyonight" />
+</p>
+
+### Language & Repository Stats
+<p align="center">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=patel-priyank-1602&theme=tokyonight" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patel-priyank-1602&theme=tokyonight" />
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patel-priyank-1602&theme=tokyonight" />
+</p>
 
 <div align="center">
  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=patel-priyank-1602&theme=react-dark&hide_border=true&area=true" />
 </div>
 
+</div>
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://priyank.pages.dev"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=F38020" /></a>
   <a href="https://www.linkedin.com/in/patel-priyank-945131288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/patelpriyank2526"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://www.instagram.com/patelpriyank.d/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
