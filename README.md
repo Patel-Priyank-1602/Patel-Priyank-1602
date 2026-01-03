@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Patel Priyank
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Python+%26+Flask+Expert;Next.js+%26+React+Developer;AI+Tools+Power+User;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Undergrad+%40+PDEU;Building+Scalable+Full-Stack+Web+Apps;React+%7C+Next.js+%7C+Node.js+%7C+Flask;System+%26+Network+Application+Developer;AI-Integrated+Product+Builder;600%2B+GitHub+Commits+%7C+35%2B+Repositories;Open-Source+%26+Project-Driven+Engineer" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=patel-priyank-1602&color=blueviolet&style=flat-square" alt="Profile Views" />
