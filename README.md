@@ -188,6 +188,6 @@ I am a passionate **Full-Stack Developer** focused on building clean, efficient,
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:020617&height=120&section=footer&animation=fadeIn"width="100%"/>
   <p><b>Developed with ❤️ by Patel Priyank</b></p>
 </div>
