@@ -175,7 +175,9 @@ I am a passionate **Full-Stack Developer** focused on building clean, efficient,
 
 <p align="center">
   <a href="https://priyank.pages.dev"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=cloudflare&logoColor=F38020" /></a>
-  <a href="https://www.linkedin.com/in/patel-priyank-945131288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/patel-priyank-945131288/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>
   <a href="https://www.hackerrank.com/profile/patelpriyank2526"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
   <a href="https://www.instagram.com/patelpriyank.d/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:patelpriyank2526@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
