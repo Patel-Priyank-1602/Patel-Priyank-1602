@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/github/followers/patel-priyank-1602?label=Followers&style=flat&logo=github&color=blue" alt="Followers" />
 </p>
 
-[📄 View My Resume](https://drive.google.com/file/d/1Vm3xpl8fLwOFOZIt3AW708rPutsuhHck/view?usp=sharing) • [🌐 Visit Portfolio](http://priyank.pages.dev/) • [📧 Contact Me](mailto:patelpriyank2526@gmail.com)
+[📄 View My Resume](https://drive.google.com/file/d/1xwWAw6F2mNnO-fN5-PhxPIa3jKKISu9d/view?usp=sharing) • [🌐 Visit Portfolio](http://priyank.pages.dev/) • [📧 Contact Me](mailto:patelpriyank2526@gmail.com)
 
 </div>
 
