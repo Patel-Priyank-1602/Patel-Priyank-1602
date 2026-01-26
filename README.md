@@ -17,7 +17,7 @@
 
 ## 📖 About Me
 
-<img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="280" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 I am a passionate **Full-Stack Developer** focused on building clean, efficient, and user-centric web applications. My expertise lies in bridging the gap between powerful backends (**Flask/Python**) and modern, responsive frontends (**React/Next.js**).
 
@@ -34,7 +34,7 @@ I am a passionate **Full-Stack Developer** focused on building clean, efficient,
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,php,html,css,js,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,php,html,css,js" />
 </p>
 
 ### Frameworks & Libraries
