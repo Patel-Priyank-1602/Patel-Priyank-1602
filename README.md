@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Undergrad+%40+PDEU;Building+Scalable+Full-Stack+Web+Apps;React+%7C+Next.js+%7C+Node.js+%7C+Flask;System+%26+Network+Application+Developer;AI-Integrated+Product+Builder;Open-Source+%26+Project-Driven+Engineer" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patel-priyank-1602&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=patel-priyank-1602&label=Profile%20Views&color=blueviolet&style=flat-square" />
   <img src="https://img.shields.io/github/followers/patel-priyank-1602?label=Followers&style=flat&logo=github&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/patel-priyank-1602?label=Stars&style=flat&logo=github&color=FF6F61" alt="Stars" />
 </p>
