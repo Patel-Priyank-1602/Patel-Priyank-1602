@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=patel-priyank-1602&color=blueviolet&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/patel-priyank-1602?label=Followers&style=flat&logo=github&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/patel-priyank-1602?label=Stars&style=flat&logo=github&color=FF6F61" alt="Stars" />
 </p>
 
 [📄 View My Resume](https://drive.google.com/file/d/1GfDcQ3nMMY8gyR-s6Y0BJSjpg5sGgb3E/view?usp=sharing) • [🌐 Visit Portfolio](http://priyank.pages.dev/) • [📧 Contact Me](mailto:patelpriyank2526@gmail.com)
