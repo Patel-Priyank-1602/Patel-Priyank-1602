@@ -22,10 +22,10 @@
 
 I am a passionate **Full-Stack Developer** focused on building clean, efficient, and user-centric web applications. My expertise lies in bridging the gap between powerful backends (**Flask/Python**) and modern, responsive frontends (**React/Next.js**).
 
-* 🔭 **Current Project:** Scaling Full-Stack applications with Flask & React.
-* 🌱 **Deep Diving:** Mastering **TypeScript** and **Advanced Next.js Architecture**.
-* ⚒️ **Workflow:** Leveraging AI (ChatGPT, Claude, Grok) to write cleaner, faster code.
-* 💬 **Ask me about:** Python, Flask, Java, and the Modern Web Ecosystem.
+* 🔭 **Current Project:** Building scalable full-stack & real-time web apps.
+* 🌱 **Deep Diving:** Learning TypeScript & advanced Next.js patterns.
+* ⚒️ **Workflow:** Shipping faster with AI-assisted workflows.
+* 💬 **Ask me about:** Python, Flask, Node.js, WebSockets & modern web.
 
 ---
 
