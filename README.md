@@ -45,7 +45,7 @@ I am a passionate **Full-Stack Developer** focused on building clean, efficient,
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase" />
 </p>
 
 ### Tools & Platforms
