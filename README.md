@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm Patel Priyank 
+# 👋 Hi there, I'm Priyank Patel
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Undergrad+%40+PDEU;Building+Scalable+Full-Stack+Web+Apps;React+%7C+Next.js+%7C+Node.js+%7C+Flask;System+%26+Network+Application+Developer;AI-Integrated+Product+Builder;Open-Source+%26+Project-Driven+Engineer" alt="Typing SVG" />
 
