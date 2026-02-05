@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/stars/patel-priyank-1602?label=Stars&style=flat&logo=github&color=FF6F61" alt="Stars" />
 </p>
 
-[📄 View My Resume](https://drive.google.com/file/d/1GfDcQ3nMMY8gyR-s6Y0BJSjpg5sGgb3E/view?usp=sharing) • [🌐 Visit Portfolio](http://priyank.pages.dev/) • [📧 Contact Me](mailto:patelpriyank2526@gmail.com)
+[📄 View My Resume](https://drive.google.com/file/d/1GfDcQ3nMMY8gyR-s6Y0BJSjpg5sGgb3E/view?usp=sharing) • [🌐 Visit Portfolio](http://priyankdev.netlify.app/) • [📧 Contact Me](mailto:patelpriyank2526@gmail.com)
 
 </div>
 
