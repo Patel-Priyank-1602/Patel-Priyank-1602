@@ -184,6 +184,9 @@ I am a passionate **Full-Stack Developer** focused on building clean, efficient,
   <a href="https://www.hackerrank.com/profile/patelpriyank2526" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="42"/>
   </a>
+  <a href="https://leetcode.com/patelpriyank2526" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="42"/>
+  </a>
   <a href="https://www.instagram.com/patelpriyank.d/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42"/>
   </a>
