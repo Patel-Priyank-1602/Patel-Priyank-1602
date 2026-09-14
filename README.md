@@ -29,21 +29,11 @@ class PatelPriyank:
         self.name = "Patel Priyank"
         self.location = "Surat, Gujarat, India"
         self.education = "B.Tech Computer Science Engineering @ PDEU (8.94 CGPA)"
-        self.philosophy = "Build intelligent & scalable systems
-        
+        self.philosophy = "Build intelligent & scalable systems"
         self.core_focus = [
             "AI Engineering", "System Design",
             "Backend Architecture", "Agentic Systems"
         ]
-
-        self.metrics = {
-            "projects_shipped": "25+",
-            "technologies": "15+",
-            "experience": "2+ Years",
-            "certifications": "10+",
-            "ai_velocity": True
-        }
-
         self.status = {
             "applications": "ONLINE",
             "apis": "ACTIVE & FAST",
@@ -52,7 +42,7 @@ class PatelPriyank:
         }
 
     def current_mission(self):
-        return "Ready for the next high-impact build 🚀"
+        return "Ready for the next high-impact build"
 ```
 ---
 
