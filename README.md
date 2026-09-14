@@ -1,15 +1,19 @@
 <div align="center">
 
-# 👋 Hi there, I'm Patel Priyank
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Python+%26+Flask+Expert;Next.js+%26+React+Developer;AI+Tools+Power+User;Open+Source+Contributor" alt="Typing SVG" />
+<img src="image/main.png" alt="Priyank Patel" width="100%" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=patel-priyank-1602&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/patel-priyank-1602?label=Followers&style=flat&logo=github&color=blue" alt="Followers" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Build+Scalable+Systems;Engineer+Real-Time+Applications;Build+Meaningful+Products;Design+Distributed+Systems;Learn.+Build.+Deploy." alt="Priyank Patel" />
 </p>
 
-[📄 View My Resume](https://drive.google.com/file/d/1Vm3xpl8fLwOFOZIt3AW708rPutsuhHck/view?usp=sharing) • [🌐 Visit Portfolio](https://priyankdev.netlify.app/) • [📧 Contact Me](mailto:patelpriyank2526@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=patel-priyank-1602&label=Profile%20Views&color=F78A53&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/patel-priyank-1602?label=Followers&style=for-the-badge&logo=github&color=06CF9B" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/patel-priyank-1602?label=Stars&style=for-the-badge&logo=github&color=437798" alt="Stars" />
+</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-priyanl.site-E2435D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://priyanl.site/)
+[![Email](https://img.shields.io/badge/Email-patelpriyank2526%40gmail.com-312960?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelpriyank2526@gmail.com)
 
 </div>
 
@@ -17,42 +21,26 @@
 
 ## About Me
 
-<img align="right" alt="Coding GIF" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img
+  align="right"
+  alt="Coding Animation"
+  width="300"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
 
-I am a passionate **Full-Stack Developer** focused on building clean, efficient, and user-centric web applications. My expertise lies in bridging the gap between powerful backends (**Flask/Python**) and modern, responsive frontends (**React/Next.js**).
+I'm a passionate **Full-Stack AI Engineer** who enjoys turning ideas into practical, scalable, and user-focused applications.
 
-* 🔭 **Current Project:** Scaling Full-Stack applications with Flask & React.
-* 🌱 **Deep Diving:** Mastering **TypeScript** and **Advanced Next.js Architecture**.
-* ⚒️ **Workflow:** Leveraging AI (ChatGPT, Claude, Grok) to write cleaner, faster code.
-* 💬 **Ask me about:** Python, Flask, Java, and the Modern Web Ecosystem.
+My GitHub projects reflect my interest in **AI-powered platforms, real-time systems, modern web applications, backend engineering, and intelligent automation**. I love exploring new technologies and building products that solve real-world problems.
 
----
+- 🔭 **Currently Building:** AI-powered applications, real-time systems, and scalable full-stack products
+- 🧠 **Core Interests:** AI Engineering, System Design, Backend Architecture, and Developer Tools
+- ⚙️ **Working With:** Python, Flask, FastAPI, Node.js, React, Next.js, TypeScript, REST APIs, and WebSockets
+- 🤖 **AI Focus:** Prompt Engineering, intelligent automation, and AI-powered solutions
+- 🌱 **Currently Learning:** Advanced TypeScript, Next.js architecture, distributed systems, and scalable backend design
+- 🚀 **Development Philosophy:** Build clean. Think deeply. Ship meaningful products.
+- ⚡ **Fun Fact:** I turn complex ideas into simple, working solutions.
 
-## 🛠 Tech Stack & Tools
-
-<div align="center">
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,typescript" alt="Languages" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,react,nextjs,nodejs" alt="Frameworks" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" alt="Frameworks" />
-</p>
-
-### Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,netlify,vercel" alt="Tools" />
-</p>
-
-</div>
+<br clear="right"/>
 
 ---
 
@@ -159,15 +147,32 @@ I am a passionate **Full-Stack Developer** focused on building clean, efficient,
  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=patel-priyank-1602&theme=react-dark&hide_border=true&area=true" />
 </div>
 
----
+</div>
 
 ## Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/patel-priyank-945131288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/patelpriyank2526"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.instagram.com/patelpriyank.d/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:patelpriyank2526@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://priyank.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=4285F4" height="42"/>
+  </a>
+  <a href="https://www.linkedin.com/in/patel-priyank-945131288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/patelpriyank2526" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="42"/>
+  </a>
+  <a href="https://leetcode.com/patelpriyank2526" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="42"/>
+  </a>
+  <a href="https://medium.com/@patelpriyank2526" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="42"/>
+  </a>
+  <a href="https://www.instagram.com/patelpriyank.d/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="42"/>
+  </a>
+  <a href="mailto:patelpriyank2526@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42"/>
+  </a>
 </p>
 
 <p align="center">
@@ -177,6 +182,5 @@ I am a passionate **Full-Stack Developer** focused on building clean, efficient,
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" />
-  <p><b>Developed with ❤️ by Patel Priyank</b></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:020617&height=120&section=footer&animation=fadeIn"width="100%"/>
 </div>
