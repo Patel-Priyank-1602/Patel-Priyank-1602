@@ -21,20 +21,39 @@
 
 ## About Me
 
-I'm a passionate **Full-Stack AI Engineer** who enjoys turning ideas into practical, scalable, and user-focused applications.
+```python
+class PatelPriyank:
+    """Full-Stack AI Engineer - PDEU, Gandhinagar"""
 
-My GitHub projects reflect my interest in **AI-powered platforms, real-time systems, modern web applications, backend engineering, and intelligent automation**. I love exploring new technologies and building products that solve real-world problems.
+    def __init__(self):
+        self.name = "Patel Priyank"
+        self.location = "Surat, Gujarat, India"
+        self.education = "B.Tech Computer Science Engineering @ PDEU (8.94 CGPA)"
+        self.philosophy = "Build intelligent & scalable systems
+        
+        self.core_focus = [
+            "AI Engineering", "System Design",
+            "Backend Architecture", "Agentic Systems"
+        ]
 
-- 🔭 **Currently Building:** AI-powered applications, real-time systems, and scalable full-stack products
-- 🧠 **Core Interests:** AI Engineering, System Design, Backend Architecture, and Developer Tools
-- ⚙️ **Working With:** Python, Flask, FastAPI, Node.js, React, Next.js, TypeScript, REST APIs, and WebSockets
-- 🤖 **AI Focus:** Prompt Engineering, intelligent automation, and AI-powered solutions
-- 🌱 **Currently Learning:** Advanced TypeScript, Next.js architecture, distributed systems, and scalable backend design
-- 🚀 **Development Philosophy:** Build clean. Think deeply. Ship meaningful products.
-- ⚡ **Fun Fact:** I turn complex ideas into simple, working solutions.
+        self.metrics = {
+            "projects_shipped": "25+",
+            "technologies": "15+",
+            "experience": "2+ Years",
+            "certifications": "10+",
+            "ai_velocity": True
+        }
 
-<br clear="right"/>
+        self.status = {
+            "applications": "ONLINE",
+            "apis": "ACTIVE & FAST",
+            "database": "HEALTHY",
+            "availability": "Open to Internships & Full-Time Roles"
+        }
 
+    def current_mission(self):
+        return "Ready for the next high-impact build 🚀"
+```
 ---
 
 ## Featured Projects
