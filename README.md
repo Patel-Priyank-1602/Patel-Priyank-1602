@@ -21,13 +21,6 @@
 
 ## About Me
 
-<img
-  align="right"
-  alt="Coding Animation"
-  width="300"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
-
 I'm a passionate **Full-Stack AI Engineer** who enjoys turning ideas into practical, scalable, and user-focused applications.
 
 My GitHub projects reflect my interest in **AI-powered platforms, real-time systems, modern web applications, backend engineering, and intelligent automation**. I love exploring new technologies and building products that solve real-world problems.
@@ -142,10 +135,6 @@ My GitHub projects reflect my interest in **AI-powered platforms, real-time syst
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=patel-priyank-1602&theme=tokyonight" />
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patel-priyank-1602&theme=tokyonight" />
 </p>
-
-<div align="center">
- <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=patel-priyank-1602&theme=react-dark&hide_border=true&area=true" />
-</div>
 
 </div>
 
