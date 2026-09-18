@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/stars/patel-priyank-1602?label=Stars&style=for-the-badge&logo=github&color=437798" alt="Stars" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-priyanl.site-E2435D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://priyanl.site/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-priyank.site-E2435D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://priyank.site/)
 [![Email](https://img.shields.io/badge/Email-patelpriyank2526%40gmail.com-312960?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelpriyank2526@gmail.com)
 
 </div>
